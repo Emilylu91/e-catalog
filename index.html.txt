@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Catalog.pfd</title>
+    <style>
+        body { font-family: Arial, text-align: center; padding: 20px; }
+        a { display: inline-block; margin: 20px; padding: 10px 20px; 
+            background: #0066ff; color: white; text-decoration: none; }
+    </style>
+</head>
+<body>
+    <h1>产品电子目录</h1>
+    <a href="catalog.pdf">点击下载完整目录（PDF）</a>
+</body>
+</html>
