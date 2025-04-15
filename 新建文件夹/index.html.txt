@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-    <title>Catalog</title>
+    <title>Catalog。pdf</title>
     <style>
         body { font-family: Arial, text-align: center; padding: 20px; }
         a { display: inline-block; margin: 20px; padding: 10px 20px; 
@@ -10,6 +10,6 @@
 </head>
 <body>
     <h1>产品电子目录</h1>
-    <a href="catalog.pdf">点击下载完整目录（PDF）</a>
+    <a href="catalog.pdf">download（PDF）</a>
 </body>
 </html>
